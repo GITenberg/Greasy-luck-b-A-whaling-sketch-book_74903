@@ -1,0 +1,29 @@
+_repo: Greasy-luck-b-A-whaling-sketch-book_74903
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Grant, Gordon
+    alias: Grant, Gordon H.
+    birthdate: 1875
+    deathdate: 1962
+    gutenberg_agent_id: '8049'
+    url: http://www.gutenberg.org/2009/agents/8049
+    wikipedia: https://en.wikipedia.org/wiki/Gordon_Grant_(artist)
+description: ''
+gutenberg_issued: '2024-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74903'
+language: en
+pgterms:marc905: 20240609111816grant
+pgterms:marc906: '1932'
+pgterms:marc907: US
+production_note: Steve Mattern and the Online Distributed Proofreading Team at https://www.pgdp.net
+publication_note: '  $aJamaica, NY :$bCaravan Maritime Books, $c1932, pubdate 1970.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Greasy luck : $b A whaling sketch book'
+url: http://www.gutenberg.org/ebooks/74903
